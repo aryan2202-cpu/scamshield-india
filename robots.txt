@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://scamshield-india-doing-it.vercel.app/sitemap.xml
