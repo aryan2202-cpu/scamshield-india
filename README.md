@@ -1,6 +1,6 @@
 # ScamShield India
 
-**Live Link:** [https://scamshield-india-doing-it.vercel.app/](https://scamshield-india-doing-it.vercel.app/)
+**Live Link:** [https://scamshield-check-india.vercel.app/](https://scamshield-check-india.vercel.app/)
 
 ScamShield India is a mobile-first web app designed to protect ordinary citizens, elderly users, and non-technical people across India from cyber fraud, fake KYC threats, UPI collect traps, phishing links, and digital arrest calls.
 
